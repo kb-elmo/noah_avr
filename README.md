@@ -14,6 +14,8 @@
 
 [JST connectors for USB and RGB](https://www.digikey.de/product-detail/en/jst-sales-america-inc/SM04B-SRSS-TB-LF-SN/455-1804-1-ND/926875)
 
+[SMD standoffs for daughterboard](https://www.digikey.de/en/products/detail/w%C3%BCrth-elektronik/9774030243R/5320628)
+
 ---
 
 <img src="https://i.imgur.com/pDzk5QF.png" alt="drawing" width="800"/>
