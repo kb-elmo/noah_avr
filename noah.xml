@@ -2,7 +2,7 @@
 <export version="D">
   <design>
     <source>D:\elmo\Documents\GitHub\noah\noah.sch</source>
-    <date>02.01.2021 14:41:21</date>
+    <date>02.01.2021 15:02:29</date>
     <tool>Eeschema (5.1.7)-1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -46,7 +46,7 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC"> C28323</field>
+        <field name="LCSC">C28323</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -112,7 +112,7 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC"> C1804</field>
+        <field name="LCSC">C1804</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -123,7 +123,7 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC"> C1804</field>
+        <field name="LCSC">C1804</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -134,7 +134,7 @@
       <footprint>random-keyboard-parts:SKQG-1155865</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC"> C318884</field>
+        <field name="LCSC">C318884</field>
       </fields>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <sheetpath names="/" tstamps="/"/>
@@ -241,7 +241,7 @@
       <footprint>custom_parts:D_SOT-23_ANK</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC">C2500</field>
+        <field name="LCSC">C8553</field>
       </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -266,7 +266,7 @@
       <footprint>custom_parts:D_SOT-23_ANK</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC">C2500</field>
+        <field name="LCSC">C8553</field>
       </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -291,7 +291,7 @@
       <footprint>custom_parts:D_SOT-23_ANK</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC">C2500</field>
+        <field name="LCSC">C8553</field>
       </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -316,7 +316,7 @@
       <footprint>custom_parts:D_SOT-23_ANK</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC">C2500</field>
+        <field name="LCSC">C8553</field>
       </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -341,7 +341,7 @@
       <footprint>custom_parts:D_SOT-23_ANK</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC">C2500</field>
+        <field name="LCSC">C8553</field>
       </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -366,7 +366,7 @@
       <footprint>custom_parts:D_SOT-23_ANK</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC">C2500</field>
+        <field name="LCSC">C8553</field>
       </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -391,7 +391,7 @@
       <footprint>custom_parts:D_SOT-23_ANK</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC">C2500</field>
+        <field name="LCSC">C8553</field>
       </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -423,7 +423,7 @@
       <footprint>custom_parts:D_SOT-23_ANK</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC">C2500</field>
+        <field name="LCSC">C8553</field>
       </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -448,7 +448,7 @@
       <footprint>custom_parts:D_SOT-23_ANK</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC">C2500</field>
+        <field name="LCSC">C8553</field>
       </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -473,7 +473,7 @@
       <footprint>custom_parts:D_SOT-23_ANK</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC">C2500</field>
+        <field name="LCSC">C8553</field>
       </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -498,7 +498,7 @@
       <footprint>custom_parts:D_SOT-23_ANK</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC">C2500</field>
+        <field name="LCSC">C8553</field>
       </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -523,7 +523,7 @@
       <footprint>custom_parts:D_SOT-23_ANK</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC">C2500</field>
+        <field name="LCSC">C8553</field>
       </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -548,7 +548,7 @@
       <footprint>custom_parts:D_SOT-23_ANK</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC">C2500</field>
+        <field name="LCSC">C8553</field>
       </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -573,7 +573,7 @@
       <footprint>custom_parts:D_SOT-23_ANK</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC">C2500</field>
+        <field name="LCSC">C8553</field>
       </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -591,7 +591,7 @@
       <footprint>custom_parts:D_SOT-23_ANK</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC">C2500</field>
+        <field name="LCSC">C8553</field>
       </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -616,7 +616,7 @@
       <footprint>custom_parts:D_SOT-23_ANK</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC">C2500</field>
+        <field name="LCSC">C8553</field>
       </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -641,7 +641,7 @@
       <footprint>custom_parts:D_SOT-23_ANK</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC">C2500</field>
+        <field name="LCSC">C8553</field>
       </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -666,7 +666,7 @@
       <footprint>custom_parts:D_SOT-23_ANK</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC">C2500</field>
+        <field name="LCSC">C8553</field>
       </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -691,7 +691,7 @@
       <footprint>custom_parts:D_SOT-23_ANK</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC">C2500</field>
+        <field name="LCSC">C8553</field>
       </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -716,7 +716,7 @@
       <footprint>custom_parts:D_SOT-23_ANK</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC">C2500</field>
+        <field name="LCSC">C8553</field>
       </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -748,7 +748,7 @@
       <footprint>custom_parts:D_SOT-23_ANK</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC">C2500</field>
+        <field name="LCSC">C8553</field>
       </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -773,7 +773,7 @@
       <footprint>custom_parts:D_SOT-23_ANK</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC">C2500</field>
+        <field name="LCSC">C8553</field>
       </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -798,7 +798,7 @@
       <footprint>custom_parts:D_SOT-23_ANK</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC">C2500</field>
+        <field name="LCSC">C8553</field>
       </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -823,7 +823,7 @@
       <footprint>custom_parts:D_SOT-23_ANK</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC">C2500</field>
+        <field name="LCSC">C8553</field>
       </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -848,7 +848,7 @@
       <footprint>custom_parts:D_SOT-23_ANK</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC">C2500</field>
+        <field name="LCSC">C8553</field>
       </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -873,7 +873,7 @@
       <footprint>custom_parts:D_SOT-23_ANK</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC">C2500</field>
+        <field name="LCSC">C8553</field>
       </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -898,7 +898,7 @@
       <footprint>custom_parts:D_SOT-23_ANK</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC">C2500</field>
+        <field name="LCSC">C8553</field>
       </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -923,7 +923,7 @@
       <footprint>custom_parts:D_SOT-23_ANK</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC">C2500</field>
+        <field name="LCSC">C8553</field>
       </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -941,7 +941,7 @@
       <footprint>custom_parts:D_SOT-23_ANK</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC">C2500</field>
+        <field name="LCSC">C8553</field>
       </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -959,7 +959,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC"> C81598</field>
+        <field name="LCSC">C81598</field>
       </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -984,7 +984,7 @@
       <footprint>custom_parts:D_SOT-23_ANK</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC">C2500</field>
+        <field name="LCSC">C8553</field>
       </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1037,7 +1037,7 @@
       <footprint>custom_parts:D_SOT-23_ANK</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC">C2500</field>
+        <field name="LCSC">C8553</field>
       </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1048,7 +1048,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC"> C81598</field>
+        <field name="LCSC">C81598</field>
       </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1059,7 +1059,7 @@
       <footprint>custom_parts:D_SOT-23_ANK</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC">C2500</field>
+        <field name="LCSC">C8553</field>
       </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1070,7 +1070,7 @@
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC"> C81598</field>
+        <field name="LCSC">C81598</field>
       </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1081,7 +1081,7 @@
       <footprint>custom_parts:D_SOT-23_ANK</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC">C2500</field>
+        <field name="LCSC">C8553</field>
       </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
