@@ -2477,7 +2477,7 @@ Wire Wire Line
 	3800 9150 4200 9150
 Text GLabel 3800 9250 2    50   Input ~ 0
 row2
-Text GLabel 3800 7850 2    50   Input ~ 0
+Text GLabel 3800 7950 2    50   Input ~ 0
 row1
 Text GLabel 3800 8350 2    50   Input ~ 0
 col5
@@ -2501,7 +2501,7 @@ Text GLabel 3800 10050 2    50   Input ~ 0
 col8
 Text GLabel 3800 10150 2    50   Input ~ 0
 col7
-Text GLabel 3800 7950 2    50   Input ~ 0
+Text GLabel 3800 7850 2    50   Input ~ 0
 RGB
 $Comp
 L MX_Alps_Hybrid:MX-LED MX34
