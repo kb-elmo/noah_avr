@@ -4,7 +4,7 @@
 
 ### Atmega32u4 based drop-in replacement PCB for the Matrix Noah keyboard
 
-<img src="https://i.imgur.com/wg2tP47l.png" alt="drawing" width="800"/>
+<img src="https://i.imgur.com/wg2tP47.png" alt="drawing" width="800"/>
 
 <img src="https://i.imgur.com/pDzk5QF.png" alt="drawing" width="800"/>
 <img src="https://i.imgur.com/bX5IBjR.png" alt="drawing" width="800"/>
