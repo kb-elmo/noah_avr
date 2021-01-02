@@ -6,6 +6,11 @@
 
 <img src="https://i.imgur.com/wg2tP47.png" alt="drawing" width="800"/>
 
+[LCSC BOM](noah.csv)
+[JLC Pick&Place file](noah-bottom-pos.csv)
+
+[JST connectors for USB and RGB](https://www.digikey.de/product-detail/en/jst-sales-america-inc/SM04B-SRSS-TB-LF-SN/455-1804-1-ND/926875)
+
 <img src="https://i.imgur.com/pDzk5QF.png" alt="drawing" width="800"/>
 <img src="https://i.imgur.com/bX5IBjR.png" alt="drawing" width="800"/>
 
