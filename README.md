@@ -10,7 +10,7 @@
 
 [LCSC BOM](noah.csv)
 
-[JLC Pick&Place file](noah-bottom-pos.csv)
+[JLC CPL](noah-bottom-pos.csv)
 
 [JST connectors for USB and RGB](https://www.digikey.de/product-detail/en/jst-sales-america-inc/SM04B-SRSS-TB-LF-SN/455-1804-1-ND/926875)
 
