@@ -394,9 +394,9 @@ Text GLabel 1450 8450 0    50   Input ~ 0
 D-
 Text GLabel 1450 8350 0    50   Input ~ 0
 D+
-Text GLabel 7250 8400 0    50   Input ~ 0
-D+
 Text GLabel 7250 8500 0    50   Input ~ 0
+D+
+Text GLabel 7250 8400 0    50   Input ~ 0
 D-
 $Comp
 L Device:Polyfuse_Small F1
@@ -466,9 +466,9 @@ F 3 "" H 9200 8700 50  0001 C CNN
 	1    9200 8700
 	1    0    0    -1  
 $EndComp
-Text GLabel 8700 9100 0    50   Input ~ 0
-D-
 Text GLabel 9700 9100 2    50   Input ~ 0
+D-
+Text GLabel 8700 9100 0    50   Input ~ 0
 D+
 Wire Wire Line
 	1000 10000 750  10000
